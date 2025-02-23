@@ -55,4 +55,8 @@ The Program is provided "as is," without warranty of any kind, express or implie
 Under no circumstances will the copyright holder be liable for damages arising from the use of the Program, except as required by applicable law.
 
 11. Relation to GNU GPL
+<<<<<<< HEAD
 This License incorporates the terms of the GNU General Public License Version 3 (available at https://www.gnu.org/licenses/gpl-3.0.en.html) except where explicitly modified by the non-commercial restriction and other terms herein. In case of conflict, this License’s terms prevail.
+=======
+This License incorporates the terms of the GNU General Public License Version 3 (available at https://www.gnu.org/licenses/gpl-3.0.en.html) except where explicitly modified by the non-commercial restriction and other terms herein. In case of conflict, this License’s terms prevail.
+>>>>>>> d7fa2b6a9d3fa9a6b415772554269624fa48974c

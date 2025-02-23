@@ -1,6 +1,8 @@
 # taiconnect-2-workshop1
 
-LICENSE GNU GENERAL PUBLIC LICENSE WITH NON-COMMERCIAL RESTRICTION Version 1.0, TSI Technologies Pvt. Ltd., 2025
+LICENSE 
+GNU GENERAL PUBLIC LICENSE WITH NON-COMMERCIAL RESTRICTION 
+Version 1.0, TSI Technologies Pvt. Ltd., 2025
 
 #Prerequisite
 1) Setup the Groq API key in the colab
